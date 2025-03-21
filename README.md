@@ -2,7 +2,7 @@
 
 # Screenshots and Descriptions:
 
-# 1. Home Screen
+1. Home Screen
 
 ![Image](https://github.com/user-attachments/assets/4f4abda3-8873-43a0-afe7-e3c42920c7a4)
 
